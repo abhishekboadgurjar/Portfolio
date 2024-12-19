@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/abhishekgurjar-in"
+                href="https://github.com/abhishekboadgurjar"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/abhigurjar_in"
+                href="https://twitter.com/abhishekboad"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/abhishekgurjar-in/"
+                href="https://www.linkedin.com/in/abhishekboadgurjar/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/abhishekgurjar.in"
+                href="https://www.instagram.com/abhishekboadgurjar"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
