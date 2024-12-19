@@ -32,7 +32,7 @@ Follow the steps below to set up the project on your local machine:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/abhishekgurjar-in/portfolio.git
+   git clone https://github.com/abhishekboadgurjar/portfolio.git
    cd portfolio
    ```
 
@@ -77,5 +77,5 @@ Feel free to fork the repository and contribute to improve the project.
 
 
 ## Author
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
 
