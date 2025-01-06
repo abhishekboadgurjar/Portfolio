@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
 import Particle from "../Particle";
-import medicare from "../../Assets/Projects/medicare.png";
+import chitchat from "../../Assets/Projects/chitchat.png";
 import agblog from '../../Assets/Projects/AgBlog.png'
 import ProjectCards from "./ProjectCards";
 
@@ -20,12 +20,12 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCards
-              imgPath={medicare}
+              imgPath={chitchat}
               isBlog={false}
-              title="Medicare"
-              description="Medicare is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to help users book appointments with doctors. This project enables patients to browse available doctors, view profiles, and schedule appointments based on doctor availability."
-              ghLink="https://github.com/abhishekgurjar-in/Medicare"
-              demoLink="https://github.com/abhishekgurjar-in/Medicare"
+              title="ChitChat"
+              description="Welcome to **Chit Chat**, a modern real-time chat application built using the MERN stack, **Socket.io**, and styled with **Daisy UI**. This project provides seamless, interactive chat functionality with a sleek and responsive design."
+              ghLink="https://github.com/abhishekgurjar-in/Chit-Chat"
+              demoLink="https://github.com/abhishekgurjar-in/Chit-Chat"
             />
           </Col>
           <Col md={4} className="project-card">
